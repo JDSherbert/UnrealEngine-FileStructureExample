@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/43964243/235778441-9dfb45ab-befd-480b-bc30-5eab5dc2efef.png)
+
 # Unreal Engine 5 File Structure Template
 
 <!-- Header Start -->
