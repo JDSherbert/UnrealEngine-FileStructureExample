@@ -8,7 +8,7 @@
 <!-- Tools End -->  
 
 <!-- Badges Start -->
-<div align="center">
+<div align="right">
   <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/unrealengine-filestructureexample"/>
   <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/unrealengine-filestructureexample?label=Fork"/>
   <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/unrealengine-filestructureexample"/>
