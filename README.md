@@ -12,7 +12,9 @@
 <img align="right" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/unrealengine-filestructureexample"/>
 <!-- Header End --> 
 
-A respository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
+-----------------------------------------------------------------------
+
+A repository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
 
 I'd strongly recommend following Epic's Standard for Naming Conventions for Assets, found here:
  - https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/AssetNaming/
