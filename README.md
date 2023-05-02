@@ -1,10 +1,8 @@
 # Unreal Engine 5 File Structure Template
   <a href = "https://docs.unrealengine.com/5.1/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unrealengine/white"> </a> 
-  <a href = "https://docs.unity.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unity/white"> </a> 
   <a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c"> </a>
   <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
   <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
-  <a href = "https://docs.python.org/3"> <img height="40" img width="40" src="https://cdn.simpleicons.org/python"> </a>
 
 A respository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
 
