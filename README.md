@@ -7,7 +7,10 @@
 <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
 <!-- Tools End -->  
 
-[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=JDSherbert.UnrealEngine-FileStructureExample&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square)](https://github.com/JDSherbert/UnrealEngine-FileStructureExample)
+<img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/unrealengine-filestructureexample"/>
+<img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/unrealengine-filestructureexample?label=Fork"/>
+<img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert/unrealengine-filestructureexample"/>
+<img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/unrealengine-filestructureexample"/>
 
 
 A respository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
