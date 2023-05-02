@@ -5,9 +5,6 @@
 <a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c"> </a>
 <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
 <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
-<!-- Tools End -->  
-
-<!-- Badges Start -->
 <div align="right">
   <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/unrealengine-filestructureexample"/>
   <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/unrealengine-filestructureexample?label=Fork"/>
