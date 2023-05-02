@@ -13,7 +13,6 @@
   <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/>
   <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"/>
   <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert"/>
-  <img style="margin-right: 6px" alt="Views" src="https://komarev.com/ghpvc/?username=JDSherbert" href="https://github.com/JDSherbert"/>
 </div>
 <!-- Badges End -->
 
