@@ -8,9 +8,11 @@
 <!-- Tools End -->  
 
 <!-- Badges Start -->
+<div align="center">
 <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/unrealengine-filestructureexample"/>
 <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/unrealengine-filestructureexample?label=Fork"/>
 <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/unrealengine-filestructureexample"/>
+</div>
 <!-- Badges End --> 
 
 A respository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
