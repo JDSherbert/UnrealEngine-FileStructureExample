@@ -7,6 +7,9 @@
 <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
 <!-- Tools End -->  
 
+[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=JDSherbert.UnrealEngine-FileStructureExample&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square)](https://github.com/JDSherbert/UnrealEngine-FileStructureExample)
+
+
 A respository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
 
 I'd strongly recommend following Epic's Standard for Naming Conventions for Assets, found here:
