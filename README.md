@@ -6,15 +6,6 @@
 <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
 <a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
 <!-- Tools End -->  
-  
-<!-- Badges Start -->
-<div align="center">
-  <img style="margin-right: 6px" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/jdsherbert"/>
-  <img style="margin-right: 6px" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/jdsherbert?label=Fork"/>
-  <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/jdsherbert"/>
-  <img style="margin-right: 6px" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert"/>
-</div>
-<!-- Badges End -->
 
 A respository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
 
