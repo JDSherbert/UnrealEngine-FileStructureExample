@@ -6,4 +6,16 @@ I'd strongly recommend following Epic's Standard for Naming Conventions for Asse
  - https://www.tomlooman.com/unreal-engine-naming-convention-guide/
  - https://www.unrealdirective.com/resource/asset-naming-conventions
 
+For Code, see here:
+ - https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/CodingStandard/
+
 Using these will allow you to search your project easier, and as it gets larger, some things can get very difficult to find - the time saved will be very valuable.
+
+If you'd like to get Unreal Engine and use this project template, please follow these steps:
+1. Download the Epic launcher: https://www.unrealengine.com/en-US/
+2. Install Unreal Engine (whichever version - this template is for 5.1)
+3. Clone this project
+4. Open it up with your engine, or copy + paste the folder structure from it
+5. Profit
+
+Lemme know if you have any questions or feedback!
