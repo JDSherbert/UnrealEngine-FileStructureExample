@@ -14,6 +14,11 @@
 
 -----------------------------------------------------------------------
 
+<a href="https://docs.unrealengine.com/5.3/en-US/"> 
+  <img align="top" alt="Unreal Engine Template" src="https://img.shields.io/badge/Unreal%20Engine%20Template-black?style=for-the-badge&logo=unrealengine&logoColor=white&color=black&labelColor=black"> </a>
+  
+  -----------------------------------------------------------------------
+
 A repository containing a dummy Unreal Engine 5 project. Contains a folder structure that has been premade to help kickstart new Unreal projects. I've found that the way a project is laid out kind of sets the framework for how easily scalable it will be as more development occurs.
 
 I'd strongly recommend following Epic's Standard for Naming Conventions for Assets, found here:
